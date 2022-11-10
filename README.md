@@ -358,6 +358,8 @@ Conectar el cable rojo del amperímetro a Vs y el cable negro a V1
 
 **46) ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?**
 
+Un multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución.
+
 **4. VIDEO**
 
 **5. CONCLUSIONES**
