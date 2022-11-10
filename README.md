@@ -158,6 +158,12 @@
 
 **29)  Sume las siguientes cantidades:**
 
+**a) 50 mA + 680 μA** = (5x10<sup>-3</sup>)+(680x10<sup>-6</sup>) 
+= (5x10<sup>-3</sup>)+(0.68x10<sup>-3</sup>) = 5.68<sup>-3</sup> A = 5.68 mA
+**b) 120 kΩ + 2.2 MΩ** = 3.3x10<sup>9 Hz
+ 
+**c) 0.02 μF + 3300 pF** = 280x10<sup>-9 W
+
 
 **4. VIDEO**
 
