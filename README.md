@@ -17,6 +17,7 @@ Reconocer la diferencia existente entre resistores fijos y variables
 
 Distiguir los códigos de colores para la determinación del valor de una resistencia 
 
+Manejar de manera apropiada los instrumentos de medición, a fin de obtener lecturas adecuadas de voltaje, resistencia y corriente.
 
 
 
