@@ -124,11 +124,11 @@
  
  **21) Exprese cada número del problema 15 en amperes por medio de un prefijo métrico:**
  
-**a) 0,000345** = 345x10<sup>-6 = 	345 μA
+**a) 0,000345** = 345x10<sup>-6</sup> = 	345 μA
  
-**b) 0,025** = 25x10<sup>-3 = 25 mA
+**b) 0,025** = 25x10<sup>-3</sup> = 25 mA
  
-**c) 0.00000000129** = 1.29x10<sup>-9 = 1.29 nA
+**c) 0.00000000129** = 1.29x10<sup>-9</sup> = 1.29 nA
 
 **23) Exprese cada una de las cantidades siguientes por medio de prefijos métricos:**
 
@@ -148,13 +148,13 @@
 
 **27) Realice las conversiones indicadas:**
 
-**a) 5 mA a microamperes** = 5x10<sup>-3 A = = 5000x10<sup>-6 A = 5000 μA
+**a) 5 mA a microamperes** = 5x10<sup>-3</sup> A = = 5000x10<sup>-6</sup> A = 5000 μA
  
-**b) 3200 μW a miliwatts** = 3200x10<sup>-6 W = 3.2x10<sup>-3 W = 3.2 mW
+**b) 3200 μW a miliwatts** = 3200x10<sup>-6</sup> W = 3.2x10<sup>-3</sup> W = 3.2 mW
  
-**c) 5000 kV a megavolt** = 5000x10<sup>3 V = 5x10<sup>6 V = 5 MV
+**c) 5000 kV a megavolt** = 5000x10<sup>3</sup> V = 5x10<sup>6</sup> V = 5 MV
 
-**d) 10 MW a kilowatts** = 10x10<sup>6 W = 10000x10<sup>3 W = 10000 kW
+**d) 10 MW a kilowatts** = 10x10<sup>6</sup> W = 10000x10<sup>3</sup> W = 10000 kW
 
 **29)  Sume las siguientes cantidades:**
 
