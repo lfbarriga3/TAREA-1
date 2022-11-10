@@ -321,6 +321,9 @@ Se basa en convertir la energía mecánica en energía eléctrica por medio de u
 ![32](https://user-images.githubusercontent.com/116696484/201101983-330e0676-52d5-47ac-a838-eef66870fd43.png) 
 
 **34) ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
+![34](https://user-images.githubusercontent.com/116696484/201102825-2262c922-2517-49f2-a3be-8bc4c788b735.png)
+
+***A través del resistor 5 siempre hay hay corriente, sin importar la posición de los interruptores***
 
 **36) Las diferentes secciones de un sistema estereofónico están representadas por 
 los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo 
@@ -328,18 +331,30 @@ interruptor para conectar el fonógrafo, el reproductor de discos compactos, la
 casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante 
 una sola perilla de control. En un momento dado, solamente una sección puede ser 
 conectada al amplificador.**
- 
- 
+ ![36](https://user-images.githubusercontent.com/116696484/201104478-6237bc4d-d7c4-4997-8068-f45c81d3b530.png)
 
+ 
 **38)  Explique cómo mediría la resistencia de R2 en la figura 2-72**
+
+Unir las dos resistencias dado que están en serie y usar la fórmula para calcular resistencias en serie 
+
+![38](https://user-images.githubusercontent.com/116696484/201104990-c7be0e5e-be0c-4eab-aaea-06d7592b02f7.png)
+
 
 **40) En la figura 2-73, indique cómo se conecta un amperímetro para medir la 
 corriente que sale de la fuente de voltaje sin importar la posición del 
 interruptor.**
+![40](https://user-images.githubusercontent.com/116696484/201105238-f0ba6149-0773-4878-98b2-7c6868c49db9.png)
+
+Conectar el cable rojo del amperímetro a Vs y el cable negro a V1
 
 **42) Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor**
 
+
 **44) Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?**
+![44](https://user-images.githubusercontent.com/116696484/201105822-073919fd-ca1e-4586-b300-45494dfabc3e.png)
+ 
+ El ohmetro de la figura 2-75 está midiendo 10kΩ
 
 **46) ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?**
 
