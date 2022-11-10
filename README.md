@@ -255,53 +255,53 @@ Se basa en convertir la energía mecánica en energía eléctrica por medio de u
  
  **22)Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21**
  
- *a)rojo, violeta, naranja, oro*
+ **a) rojo, violeta, naranja, oro**
  
  R=27000=27kΩ
  
  Tolerancia ±5%
  
- *Valor Max*=50+27kΩ=27050 Ω
+ **Valor Max** = 50+27kΩ = 27050 Ω
  
- *Valor Min*=27kΩ-50=26950 Ω
+ **Valor Min** = 27kΩ-50 = 26950 Ω
  
- *b)café, gris, rojo, plata*
+ **b) café, gris, rojo, plata**
  
  R=1800Ω= 1.8kΩ
  
  Tolerancia ±10%
  
- *Valor Max*=1.8kΩ+100=1900Ω
+ **Valor Max** = 1.8kΩ+100 = 1900Ω
  
- *Valor Min*=1.8kΩ-100=1700Ω
+ **Valor Min**= 1.8kΩ-100 = 1700Ω
  
  **24) Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:**
  
- **a)café, negro, negro, oro**
+ **a) café, negro, negro, oro**
  
  R=10Ω ± 5%
  
- **b)verde, café, verde, plata**
+ **b) verde, café, verde, plata**
 
  R=5100000Ω ± 10%
  R=5.1 MΩ ± 10%
  
- **c)azul, gris, negro, oro**
+ **c) azul, gris, negro, oro**
  
  R=68Ω ± 5%
  
  **26) Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:**
  
- **a)rojo, gris, violeta, rojo, café**
+ **a) rojo, gris, violeta, rojo, café**
  
  R= 28700 Ω ± 1%
  R= 28.7 kΩ ± 1%
  
- **b)azul, negro, amarillo, oro, café**
+ **b) azul, negro, amarillo, oro, café**
  
  R=604x0.1= 60.4 Ω ± 1% 
  
- **c)blanco, naranja, café, café, café**
+ **c) blanco, naranja, café, café, café**
  
  R= 9.410 kΩ ± 1%
  
@@ -317,7 +317,8 @@ Se basa en convertir la energía mecánica en energía eléctrica por medio de u
  
  *c)1501F*= 1501 Ω ± 1%
 
-**32) Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.**
+**32) Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.**}
+
 ![32](https://user-images.githubusercontent.com/116696484/201101983-330e0676-52d5-47ac-a838-eef66870fd43.png) 
 
 **34) ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
@@ -331,6 +332,7 @@ interruptor para conectar el fonógrafo, el reproductor de discos compactos, la
 casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante 
 una sola perilla de control. En un momento dado, solamente una sección puede ser 
 conectada al amplificador.**
+
  ![36](https://user-images.githubusercontent.com/116696484/201104478-6237bc4d-d7c4-4997-8068-f45c81d3b530.png)
 
  
@@ -344,12 +346,14 @@ Unir las dos resistencias dado que están en serie y usar la fórmula para calcu
 **40) En la figura 2-73, indique cómo se conecta un amperímetro para medir la 
 corriente que sale de la fuente de voltaje sin importar la posición del 
 interruptor.**
+
 ![40](https://user-images.githubusercontent.com/116696484/201105238-f0ba6149-0773-4878-98b2-7c6868c49db9.png)
 
 Conectar el cable rojo del amperímetro a Vs y el cable negro a V1
 
 **42) Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor**
 
+Es necesario colocar en paralelo para poder medir cada resisitor
 
 **44) Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?**
 ![44](https://user-images.githubusercontent.com/116696484/201105822-073919fd-ca1e-4586-b300-45494dfabc3e.png)
