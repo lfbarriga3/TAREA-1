@@ -317,9 +317,8 @@ Se basa en convertir la energía mecánica en energía eléctrica por medio de u
  
  *c)1501F*= 1501 Ω ± 1%
 
-**32) Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente ex![32](https://user-images.githubusercontent.com/116696484/201101983-330e0676-52d5-47ac-a838-eef66870fd43.png)
-cesiva.**
- 
+**32) Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.**
+![32](https://user-images.githubusercontent.com/116696484/201101983-330e0676-52d5-47ac-a838-eef66870fd43.png) 
 
 **34) ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
 
