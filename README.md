@@ -84,40 +84,43 @@
  
  **11)Realice las siguientes divisiones:**
  
- **a) (9.2x10<sup>6</sup>)+(3.4x10<sup>7</sup>)**= 4.32x10<sup>7
+ **a) (5x10<sup>3</sup>)(4x10<sup>5</sup>)**= 20x10<sup>8
  
- **b) (5x10<sup>3</sup>)+(8.5x10<sup>-1</sup>)**= 5.00085x10<sup>3 
+ **b) (1.2x10<sup>12</sup>)(3x10<sup>2</sup>)**= 3.6x10<sup>14
  
- **c) (5.6x10<sup>-8</sup>)+(4.6x10<sup>-9</sup>)**= 60.6x10<sup>-9
+ **c) (2.2x10<sup>-9</sup>)(7x10<sup>-6</sup>)**= 15.4x10<sup>-15
  
- **14)Exprese cada número en notación de ingeniería:**
+ **13) Exprese cada uno de los números siguientes en notación de ingeniería:**
  
- *a)2.35x10<sup>5 </sub>*= 0.235x10<sup>6
+**a) 89,000** = 89x10<sup>3
  
- *b)7.32x10<sup>7 </sub>*= 7.32x10<sup>6
+**b) 450,000** = 450x10<sup>3
  
- *c)1.333x10<sup>9</sub>*= 1,333,000,000
+**c) 12,040,000,000,000** = 12.04x10<sup>12
  
- **16) Exprese cada número en notación de ingeniería:** 
+ **15) Exprese cada número en notación de ingeniería:** 
  
- *a)9.81x10<sup>-3 </sub>*= 0,00981
+**a) 0,000345** = 345x10<sup>-6
  
- *b)4.81x10<sup>-4 </sub>*= 482x10<sup>-6
+**b) 0,025** = 25x10<sup>-3
  
- *c)4.38x10<sup>-7 </sub>*= 438x10<sup>-9
- 
- **18)Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:**
- 
- *a)(32x10<sup>-3</sup>)(56x10<sup>3</sup>)*= 1792x10<sup>-3+3 </sup>
- 
- =1792x10<sup>0 </sup>= 1.792x10<sup>3
- 
- *b)(1.2x10<sup>-6</sup>)(1.2x10<sup>6</sup>)*= 1.44x10<sup>-6+(-6) </sup>
- 
- =1.44x10<sup>-12
- 
- *c)100(55x10<sup>-3</sup>)*= 5.5x10<sup>0 </sup>
+**c) 0.00000000129** = 1.29x10<sup>-9
 
+ **17) Sume los números siguientes y exprese cada resultado en notación de ingeniería:**
+ 
+ **a) (2.5x10<sup>-3</sup>)+(4.6x10<sup>-3</sup>)**= 7.1x10<sup>-3
+ 
+ **b) (68x10<sup>6</sup>)+(33x10<sup>6</sup>)**= 101x10<sup>6
+ 
+ **c) (1.25x10<sup>6</sup>)+(250x10<sup>3</sup>)**= (1.25x10<sup>6</sup>)+(0.25x10<sup>6</sup>) = 1.50x10<sup>6
+ 
+  **18) Sume los números siguientes y exprese cada resultado en notación de ingeniería:**
+ 
+ **a) (2.5x10<sup>-3</sup>)+(4.6x10<sup>-3</sup>)**= 7.1x10<sup>-3
+ 
+ **b) (68x10<sup>6</sup>)+(33x10<sup>6</sup>)**= 101x10<sup>6
+ 
+ **c) (1.25x10<sup>6</sup>)+(250x10<sup>3</sup>)**= (1.25x10<sup>6</sup>)+(0.25x10<sup>6</sup>) = 1.50x10<sup>6
 
 **4. VIDEO**
 
