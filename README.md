@@ -175,68 +175,72 @@
 
 **3.2 CAPÍTULO 2: VOLTAJE, CORRIENTE Y RESISTENCIA**
 
-**2)¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?**
+**2) ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?**
  
- Q=número de electrones/6.25x10<sup>18</sup> 
+ Q=número de electrones/6.25x10<sup>18</sup> [e<sup>-</sup>/C] 
  
- Q=(17/6.25x10<sup>18</sup>)=2.72x10<sup>-18
+ Q=(17 [e<sup>-</sup>]/6.25x10<sup>18</sup>[e<sup>-</sup>/C])=2.72x10<sup>-18</sup> C 
  
- **4)¿Cuántos electrones se requieren para producir 80μC (microcoulombs) de carga?**
+ **4) ¿Cuántos electrones se requieren para producir 80μC (microcoulombs) de carga?**
+
+Q=número de electrones/6.25x10<sup>18</sup> [e<sup>-</sup>/C] 
+
+ Número de electrones=Q x 6.25x10<sup>18</sup>[e<sup>-</sup>/C]
  
- Q=número de electrones/6.25x10<sup>18</sup>                        **80μC=80x10<sup>-6</sup>**
- 
- 6.25x10<sup>18</sup> x Q = número de electrones
- 
- 6.25x10<sup>18</sup>x 80x10<sup>-6</sup> = 5x10<sup>14
- 
- **6)Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje
+ Número de electrones=(80x10<sup>-6</sup>) C x 6.25x10<sup>18</sup>[e<sup>-</sup>/C]
+
+Número de electrones= 5x10<sup>14</sup> e<sup>-</sup>
+
+ **6) Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje
 a través del resistor?**
  
- v=W/Q
+ V=W/Q
  
- v=500J/100C= *5V*
+ V=500[J]/100[C]= *5V*
  
- **8)¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?**
+ **8) ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?**
  
- W= vQ
+ W= VxQ
  
- W= 12 x 2.5 = 30J
+ W= 12[V] x 2.5 [C] = 30 [J]
  
- **10)Determine la corriente en cada uno de los siguientes casos:**
+ **10) Determine la corriente en cada uno de los siguientes casos:**
  
- Formula de la corriente: I=Q/t
+ ***I=Q/t***
  
- *a)75C en 1s*= 75/1= 75A
+ **a)75C en 1s**= 75[C]/1[s]= 75A
  
- *b)10C en 0.5s*= 10/0.5= 20A
+ **b)10C en 0.5s**= 10[C]/0.5[s]= 20A
  
- *c)5C en 2s*= 5/2= 2.5A
+ **c)5C en 2s**= 5[C]/2[s]= 2.5A
  
  **12) ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?**
  
- I=Q/t= 10C/5A= *2s*
+ **I=Q/t**
+ t=Q/I
+ t=10[C]/5[A] = **2s**
  
- **14)5.74x10<sup>17</sup> electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?**
+ **14) 5.74x10<sup>17</sup> electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?**
+
+**Q=número de electrones/6.25x10<sup>18</sup> [e<sup>-</sup>/C]**
  
-  Q=número de electrones/6.25x10<sup>18</sup>
- 
-  Q=5.74x10<sup>17</sup>/6.25x10<sup>18</sup>=0.092
+  Q=5.74x10<sup>17</sup>[e<sup>-</sup>]/6.25x10<sup>18</sup> [e<sup>-</sup>/C]=0.092 C
  
  I=0.092/250= 3.68x10<sup>-4
  
  **16) Encuentre la resistencia correspondiente a las siguientes conductancias:**
  
- Formula de la conductancia G=1/R
+ ***Formula de la conductancia G=1/R***
  
- *a)0.1S*: R=1/0.1=10Ω
+ **a)0.1 S**: R=1/0.1=10Ω
  
- *b)0.5S*: R=1/0.5=2Ω
+ **b)0.5 S**: R=1/0.5=2Ω
  
- *c)0.02*: R=1/0.02=50Ω
+ **c)0.0 2**: R=1/0.02=50Ω
  
  **18)¿En qué principio se basan los generadores eléctricos?**
  
- El principio de funcionamiento de los generadores se basa en el fenómeno de inducción electromagnética. La Ley de Faraday
+Se basa en convertir la energía mecánica en energía eléctrica por medio de un principio llamado ***inducción electromagnética***, donde se hace girar un conductor a través de un campo magnético y de este modo se produce un voltaje que pasa por el conductor
  
  **20)Cierta fuente de corriente proporciona 100 mA a 1 kΩ de carga. Si la resistencia disminuye a 500, ¿cuál es la corriente en la carga?**
  
