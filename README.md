@@ -50,55 +50,45 @@
  
 **c) 2,000,000** = 2x10<sup>6
  
- **4)Exprese cada uno de los números siguientes en notación científica:** 
+ **3) Exprese cada uno de los números siguientes en notación científica:** 
 
-*a)0.0002*= 2x10<sup>-4
+**a) 8400** = 8.4x10<sup>3
  
-*b)0.6*= 6x10<sup>-1
+**b) 99,000** = 9,9x10<sup>4
  
-*c)7.8x10<sup>-2 </sup>* =0,078
+**c) 0.2x10<sup>6** = 2x10<sup>5
 
-**6)Exprese cada uno de los números siguientes como un número decimal regular:**
+**5) Exprese cada uno de los números siguientes en notación científica.**
  
- *a)2x10<sup>5 </sup> *= 200000
+**a) 32x10<sup>3** = 3.2x10<sup>4
  
- *b)5.4x10<sup>-9 </sup>*= 0.0000000054
+**b) 6800x10<sup>-6** = 6.8x10<sup>-3
  
- *c)1.0x10<sup>1 </sup>*= 10
+**c) 870x10<sup>8** = 8.7x10<sup>10
  
- **8) Exprese cada número de los siguientes como un número decimal regular:**
+ **7) Exprese cada número de los siguientes como un número decimal regular.**
  
-*a)4.5x10<sup>-6 </sup>*= 0.0000045
+**a) 2.5x10<sup>-6** = 0,0000025
  
- *b)8x10<sup>-9 </sup>*= 0.000000008
+**b) 5.0x10<sup>2** = 500
  
- *c)4.0x10<sup>-12 </sup>*= 0.000000000004
+**c) 3.9x10<sup>-1** = 0.39
  
- **10)Efectúe las siguientes sustracciones:**
+ **9) Sume los números siguientes**
  
- *a) (3.2x10<sup>12</sup>)-(1.1x10<sup>12</sup>)*= 2.1x10<sup>12
+ **a) (9.2x10<sup>6</sup>)+(3.4x10<sup>7</sup>)**= (0.92x10<sup>7</sup>)+(3.4x10<sup>7</sup>) = 4.32x10<sup>7
  
- *b) (2.6x10<sup>8</sup>)-(1.3x10<sup>7</sup>)*=   
+ **b) (5x10<sup>3</sup>)+(8.5x10<sup>-1</sup>)**= (5x10<sup>3</sup>)+(0,00085x10<sup>3</sup>) = 5.00085x10<sup>3 
  
- (26x10<sup>7</sup>)-(1.3x10<sup>7</sup>)= 24.7x10<sup>7
+ **c) (5.6x10<sup>-8</sup>)+(4.6x10<sup>-9</sup>)**= (56x10<sup>-9</sup>)+(4.6x10<sup>-9</sup>) = 60.6x10<sup>-9
  
- *c) (1.5x10<sup>-12</sup>)-(8x10<sup>-13</sup>)*=
+ **11)Realice las siguientes divisiones:**
  
- (1.5x10<sup>-12</sup>)-(0.7x10<sup>-12</sup>)= 0.7x10<sup>-12
+ **a) (9.2x10<sup>6</sup>)+(3.4x10<sup>7</sup>)**= 4.32x10<sup>7
  
- **12)Realice las siguientes divisiones:**
+ **b) (5x10<sup>3</sup>)+(8.5x10<sup>-1</sup>)**= 5.00085x10<sup>3 
  
- *a)(1.0x10<sup>3</sup>)÷(2.5x10<sup>2</sup>)*= 1/2.5 = 0.4
- 
- 0.4x10<sup>3-2 </sup>= 0.4x10<sup>1
- 
- *b)(2.5x10<sup>-6</sup>)÷(5.0x10<sup>-8</sup>)*= 2.5/5.0= 0.5
- 
-  0.5x10<sup>-6-(-8) </sup>= 0.5x10<sup>2
- 
- *c)(4.2x10<sup>8</sup>)÷(2x10<sup>-5</sup>)*= 4.2/2=2.1
- 
- 2.1x10<sup>8-(-5) </sup>= 2.1x10<sup>13
+ **c) (5.6x10<sup>-8</sup>)+(4.6x10<sup>-9</sup>)**= 60.6x10<sup>-9
  
  **14)Exprese cada número en notación de ingeniería:**
  
