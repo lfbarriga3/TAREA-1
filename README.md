@@ -381,6 +381,8 @@ Es necesario colocar en paralelo para poder medir cada resisitor
 Un multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución.
 
 **4. VIDEO**
+ 
+ https://youtu.be/w-G7b5Mkyys
 
 **5. CONCLUSIONES**
 
