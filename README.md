@@ -114,13 +114,21 @@
  
  **c) (1.25x10<sup>6</sup>)+(250x10<sup>3</sup>)**= (1.25x10<sup>6</sup>)+(0.25x10<sup>6</sup>) = 1.50x10<sup>6
  
-  **18) Sume los números siguientes y exprese cada resultado en notación de ingeniería:**
+  **19) Sume los números siguientes y exprese cada resultado en notación de ingeniería:**
  
- **a) (2.5x10<sup>-3</sup>)+(4.6x10<sup>-3</sup>)**= 7.1x10<sup>-3
+ **a) 50 ÷ (2.2x10<sup>3</sup>)**= 22.72x10<sup>-3
  
- **b) (68x10<sup>6</sup>)+(33x10<sup>6</sup>)**= 101x10<sup>6
+ **b) (5x10<sup>3</sup>) ÷ (25x10<sup>-6</sup>)**= 0.2x10<sup>9 = 200x10<sup>6
  
- **c) (1.25x10<sup>6</sup>)+(250x10<sup>3</sup>)**= (1.25x10<sup>6</sup>)+(0.25x10<sup>6</sup>) = 1.50x10<sup>6
+ **c) (560x10<sup>3</sup>) ÷ (660x10<sup>3</sup>)**= 0.85 = 850x10<sup>-3
+ 
+ **21) Exprese cada número del problema 12 en amperes por medio de un prefijo mecánico:**
+ 
+ **a) 50 ÷ (2.2x10<sup>3</sup>)**= 22.72x10<sup>-3
+ 
+ **b) (5x10<sup>3</sup>) ÷ (25x10<sup>-6</sup>)**= 0.2x10<sup>9 = 200x10<sup>6
+ 
+ **c) (560x10<sup>3</sup>) ÷ (660x10<sup>3</sup>)**= 0.85 = 850x10<sup>-3
 
 **4. VIDEO**
 
