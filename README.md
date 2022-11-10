@@ -313,7 +313,28 @@ Se basa en convertir la energía mecánica en energía eléctrica por medio de u
  
  *c)1501F*= 1501 Ω ± 1%
 
+**32) Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.**
 
+**34) ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
+
+**36) Las diferentes secciones de un sistema estereofónico están representadas por 
+los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo 
+interruptor para conectar el fonógrafo, el reproductor de discos compactos, la 
+casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante 
+una sola perilla de control. En un momento dado, solamente una sección puede ser 
+conectada al amplificador.**
+
+**38)  Explique cómo mediría la resistencia de R2 en la figura 2-72**
+
+**40) En la figura 2-73, indique cómo se conecta un amperímetro para medir la 
+corriente que sale de la fuente de voltaje sin importar la posición del 
+interruptor.**
+
+**42) Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor**
+
+**44) Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?**
+
+**46) ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?**
 
 **4. VIDEO**
 
