@@ -13,7 +13,7 @@ Manejar adecuadamente potencias de diez para la realización de cálculos matem�
 
 Utilizar prefijos métricos para expresar apropiadamente cantidades eléctricas 
 
-Reconocer la diferencia existente entre resistores fijos y variables 
+Entender los conceptos fundamentales de voltaje, resistencia y corriente, con la intención de aplicarlos experimentalmente.
 
 Distiguir los códigos de colores para la determinación del valor de una resistencia 
 
@@ -384,7 +384,9 @@ Un multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución.
 
 **5. CONCLUSIONES**
 
-A lo largo de este informe se 
+A lo largo de este informe se ha logrado manejar correctamente la notación científica y de ingeniería de tal manera que fue posible aplicar dicho conocimiento en la resolución de ejercicios en el campo de la electricicdad y la electrónica, además del uso de prefijos métricos al momento de presentar cantidades muy pequeñas o muy grandes.
+ 
+
 
 **6. BIBLIOGRAFÍA**
 
