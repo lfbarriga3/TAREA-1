@@ -114,7 +114,7 @@
  
  **c) (1.25x10<sup>6</sup>)+(250x10<sup>3</sup>)**= (1.25x10<sup>6</sup>)+(0.25x10<sup>6</sup>) = 1.50x10<sup>6
  
-  **19) Sume los números siguientes y exprese cada resultado en notación de ingeniería:**
+  **19) Divida los números siguientes y exprese cada resultado en notación de ingeniería: **
  
  **a) 50 ÷ (2.2x10<sup>3</sup>)**= 22.72x10<sup>-3
  
@@ -122,13 +122,39 @@
  
  **c) (560x10<sup>3</sup>) ÷ (660x10<sup>3</sup>)**= 0.85 = 850x10<sup>-3
  
- **21) Exprese cada número del problema 12 en amperes por medio de un prefijo mecánico:**
+ **21) Exprese cada número del problema 15 en amperes por medio de un prefijo métrico:**
  
- **a) 50 ÷ (2.2x10<sup>3</sup>)**= 22.72x10<sup>-3
+**a) 0,000345** = 345x10<sup>-6 = 	345 μA
  
- **b) (5x10<sup>3</sup>) ÷ (25x10<sup>-6</sup>)**= 0.2x10<sup>9 = 200x10<sup>6
+**b) 0,025** = 25x10<sup>-3 = 25 mA
  
- **c) (560x10<sup>3</sup>) ÷ (660x10<sup>3</sup>)**= 0.85 = 850x10<sup>-3
+**c) 0.00000000129** = 1.29x10<sup>-9 = 1.29 nA
+
+**23) Exprese cada una de las cantidades siguientes por medio de prefijos métricos:**
+
+**a) 3x10<sup>-6 F** = 	3 μA
+ 
+**b) 3.3x10<sup>6 Ω** = 3.3 MA
+ 
+**c) 350x10<sup>-9** = 350 nA
+
+**25) Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:**
+
+**a) 7.5 pA** = 7.5x10<sup>-12 A
+ 
+**b) 3.3 GHz** = 3.3x10<sup>9 Hz
+ 
+**c) 280 nW** = 280x10<sup>-9 W
+
+**27) Realice las conversiones indicadas:**
+
+**a) 5 mA a microamperes** = 7.5x10<sup>-12 A
+ 
+**b) 3200 μW a miliwatts** = 3.3x10<sup>9 Hz
+ 
+**c) 5000 kV a megavolt** = 280x10<sup>-9 W
+
+**d) 10 MW a kilowatts** = 280x10<sup>-9 W
 
 **4. VIDEO**
 
