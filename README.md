@@ -3,7 +3,22 @@
 
 ***1.1 OBJETIVO GENERAL***
 
+Implementar el uso de notación científica en el campo de la electricidad y electrónica, mediante el uso prefijos métricos a fin de que se puedan presentar adecuadamente cantidades muy pequeñas como muy grandes.
+
+Reconocer y analizar la estructura básica de los átomos a fin de entender los conceptos derivados tales como voltaje, corriente y resistencia.
+
 ***1.2 OBJETIVOS ESPECÍFICOS***
+
+Manejar adecuadamente potencias de diez para la realización de cálculos matemáticos 
+
+Utilizar prefijos métricos para expresar apropiadamente cantidades eléctricas 
+
+Reconocer la diferencia existente entre resistores fijos y variables 
+
+Distiguir los códigos de colores para la determinación del valor de una resistencia 
+
+
+
 
 **2. MARCO TEÓRICO**
 
@@ -368,4 +383,10 @@ Un multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución.
 
 **5. CONCLUSIONES**
 
+A lo largo de este informe se 
+
 **6. BIBLIOGRAFÍA**
+
+Floyd, T. L. (2007). Principios de circuitos eléctricos (8a ed). Pearson Educación.
+
+
