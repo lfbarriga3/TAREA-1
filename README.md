@@ -172,6 +172,144 @@
 0.0233x10<sup>-6</sup> F = 0.0233 μF
 
 
+
+**3.2 CAPÍTULO 2: VOLTAJE, CORRIENTE Y RESISTENCIA**
+
+**2)¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?**
+ 
+ Q=número de electrones/6.25x10<sup>18</sup> 
+ 
+ Q=(17/6.25x10<sup>18</sup>)=2.72x10<sup>-18
+ 
+ **4)¿Cuántos electrones se requieren para producir 80μC (microcoulombs) de carga?**
+ 
+ Q=número de electrones/6.25x10<sup>18</sup>                        **80μC=80x10<sup>-6</sup>**
+ 
+ 6.25x10<sup>18</sup> x Q = número de electrones
+ 
+ 6.25x10<sup>18</sup>x 80x10<sup>-6</sup> = 5x10<sup>14
+ 
+ **6)Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje
+a través del resistor?**
+ 
+ v=W/Q
+ 
+ v=500J/100C= *5V*
+ 
+ **8)¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?**
+ 
+ W= vQ
+ 
+ W= 12 x 2.5 = 30J
+ 
+ **10)Determine la corriente en cada uno de los siguientes casos:**
+ 
+ Formula de la corriente: I=Q/t
+ 
+ *a)75C en 1s*= 75/1= 75A
+ 
+ *b)10C en 0.5s*= 10/0.5= 20A
+ 
+ *c)5C en 2s*= 5/2= 2.5A
+ 
+ **12) ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?**
+ 
+ I=Q/t= 10C/5A= *2s*
+ 
+ **14)5.74x10<sup>17</sup> electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?**
+ 
+  Q=número de electrones/6.25x10<sup>18</sup>
+ 
+  Q=5.74x10<sup>17</sup>/6.25x10<sup>18</sup>=0.092
+ 
+ I=0.092/250= 3.68x10<sup>-4
+ 
+ **16) Encuentre la resistencia correspondiente a las siguientes conductancias:**
+ 
+ Formula de la conductancia G=1/R
+ 
+ *a)0.1S*: R=1/0.1=10Ω
+ 
+ *b)0.5S*: R=1/0.5=2Ω
+ 
+ *c)0.02*: R=1/0.02=50Ω
+ 
+ **18)¿En qué principio se basan los generadores eléctricos?**
+ 
+ El principio de funcionamiento de los generadores se basa en el fenómeno de inducción electromagnética. La Ley de Faraday
+ 
+ **20)Cierta fuente de corriente proporciona 100 mA a 1 kΩ de carga. Si la resistencia disminuye a 500, ¿cuál es la corriente en la carga?**
+ 
+ V=I*R= 100mA*1kΩ=100V
+ 
+ I=V/R=100/500=0.2A
+ 
+ 0.2A=200mA
+ 
+ **22)Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21**
+ 
+ *a)rojo, violeta, naranja, oro*
+ 
+ R=27000=27kΩ
+ 
+ Tolerancia ±5%
+ 
+ *Valor Max*=50+27kΩ=27050Ω
+ 
+ *Valor Min*=27kΩ-50=26950Ω
+ 
+ *b)café, gris, rojo, plata*
+ 
+ R=1800Ω= 1.8kΩ
+ 
+ Tolerancia ±10%
+ 
+ *Valor Max*=1.8kΩ+100=1900Ω
+ 
+ *Valor Min*=1.8kΩ-100=1700Ω
+ 
+ **24)Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:**
+ 
+ *a)café, negro, negro, oro*
+ 
+ R=10Ω ± 5%
+ 
+ *b)verde, café, verde, plata*
+
+ R=5100000Ω ± 10%
+ 
+ *c)azul, gris, negro, oro*
+ 
+ R=68Ω ± 5%
+ 
+ **26)Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:**
+ 
+ *a)rojo, gris, violeta, rojo, café*
+ 
+ R= 28700 ± 1%
+ 
+ *b)azul, negro, amarillo, oro, café*
+ 
+ R=604x0.1= 60.4 ± 1% 
+ 
+ *c)blanco, naranja, café, café, café*
+ 
+ R= 9410 ± 1%
+ 
+ **28)El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 Ω, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?**
+ 
+ *Respuesta*= 931x1 ± 1%
+ 
+ **30) Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:**
+ 
+ *a)4R7J*= 4.7 ± 5%
+ 
+ *b)5602M*= 5602M
+ 
+ *c)1501F*= 1501 ± 1%
+
+
+
 **4. VIDEO**
 
 **5. CONCLUSIONES**
