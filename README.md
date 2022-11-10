@@ -114,7 +114,7 @@
  
  **c) (1.25x10<sup>6</sup>)+(250x10<sup>3</sup>)**= (1.25x10<sup>6</sup>)+(0.25x10<sup>6</sup>) = 1.50x10<sup>6
  
-  **19) Divida los números siguientes y exprese cada resultado en notación de ingeniería: **
+  **19) Divida los números siguientes y exprese cada resultado en notación de ingeniería:**
  
  **a) 50 ÷ (2.2x10<sup>3</sup>)**= 22.72x10<sup>-3
  
@@ -148,13 +148,16 @@
 
 **27) Realice las conversiones indicadas:**
 
-**a) 5 mA a microamperes** = 7.5x10<sup>-12 A
+**a) 5 mA a microamperes** = 5x10<sup>-3 A = = 5000x10<sup>-6 A = 5000 μA
  
-**b) 3200 μW a miliwatts** = 3.3x10<sup>9 Hz
+**b) 3200 μW a miliwatts** = 3200x10<sup>-6 W = 3.2x10<sup>-3 W = 3.2 mW
  
-**c) 5000 kV a megavolt** = 280x10<sup>-9 W
+**c) 5000 kV a megavolt** = 5000x10<sup>3 V = 5x10<sup>6 V = 5 MV
 
-**d) 10 MW a kilowatts** = 280x10<sup>-9 W
+**d) 10 MW a kilowatts** = 10x10<sup>6 W = 10000x10<sup>3 W = 10000 kW
+
+**29)  Sume las siguientes cantidades:**
+
 
 **4. VIDEO**
 
