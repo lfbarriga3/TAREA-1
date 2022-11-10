@@ -390,7 +390,7 @@ Posteriormente se ha aprendió acerca de la estructura de un átomo, el cual inc
 
 Adicionalmente se estudiaron las cantidades básicas presentes en todos los circuitos eléctricos tales como: voltaje, corriente y resistencia lo cual nos permitió detenminar que: el voltaje es la fuerza que provoca el movimiento de los electrones, la corriente es la velocidad con la que se mueven los electrones y la resistencia es la oposición a la corriente. Además se conocieron los intrumentos de medición que se utilizan para obtener las lecturas correspondientes de un circuito eléctrico.
  
- Por último se reconocieron los riesgos que implica el trabajar con circuitos eléctricos, de manera que 
+ Por último se reconocieron los riesgos que implica el trabajar con circuitos eléctricos y las precauciones de seguridad necesarias cuando se trabaje con electricidad.
  
 **6. BIBLIOGRAFÍA**
 
