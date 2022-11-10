@@ -384,11 +384,11 @@ Un multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución.
 
 **5. CONCLUSIONES**
 
-A lo largo de este informe se ha logrado manejar correctamente la notación científica y de ingeniería de tal manera que fue posible aplicar dicho conocimiento en la resolución de ejercicios en el campo de la electricicdad y la electrónica, además del uso de prefijos métricos al momento de presentar cantidades muy pequeñas o muy grandes.
+A lo largo de este informe se ha logrado manejar correctamente la notación científica y de ingeniería de tal manera que fue posible aplicar dicho conocimiento en la resolución de ejercicios en el campo de la electricidad y la electrónica, además del uso de prefijos métricos al momento de presentar cantidades muy pequeñas o muy grandes.
  
-Posteriormente se ha aprendió acerca de la estructura de un átomo, el cual incluye capas, óbitas de los electrones, electrones de valencia, iones y niveles de energía. A partir de este conocimiento se pudo determinar la capacidad que tiene la corriente eléctrica de conducirse a través de un material conductor o semiconductor 
+Posteriormente se ha aprendió acerca de la estructura de un átomo, el cual incluye capas, óbitas de los electrones, electrones de valencia, iones y niveles de energía. A partir de este conocimiento fue posible determinar la capacidad que tiene la corriente eléctrica de conducirse a través de un material conductor o semiconductor 
 
-Adicionalmente se estudiaron las cantidades básicas presentes en todos los circuitos eléctricos tales como: voltaje, corriente y resistencia lo cual nos permitió detenminar que: el voltaje es la fuerza que provoca el movimiento de los electrones, la corriente es la velocidad con la que se mueven los electrones y la resistencia es la oposición a la corriente. Además se conocieron los intrumentos de medición que se utilizan para obtener las lecturas correspondientes de un circuito eléctrico.
+Adicionalmente se estudiaron las cantidades básicas presentes en todos los circuitos eléctricos tales como: voltaje, corriente y resistencia, lo cual nos permitió determinar que: el voltaje es la fuerza que provoca el movimiento de los electrones, la corriente es la velocidad con la que se mueven los electrones y la resistencia es la oposición a la corriente. Además se conocieron los intrumentos de medición que se utilizan para obtener las lecturas correspondientes de un circuito eléctrico.
  
  Por último se reconocieron los riesgos que implica el trabajar con circuitos eléctricos y las precauciones de seguridad necesarias cuando se trabaje con electricidad.
  
