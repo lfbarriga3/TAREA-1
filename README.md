@@ -246,9 +246,8 @@ Se basa en convertir la energía mecánica en energía eléctrica por medio de u
  
  V=I*R= 100mA*1kΩ=100V
  
- I=V/R=100/500=0.2A
+ I=V/R=100 V /500 Ω=0.2A
  
- 0.2A=200mA
  
  **22)Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21**
  
@@ -258,9 +257,9 @@ Se basa en convertir la energía mecánica en energía eléctrica por medio de u
  
  Tolerancia ±5%
  
- *Valor Max*=50+27kΩ=27050Ω
+ *Valor Max*=50+27kΩ=27050 Ω
  
- *Valor Min*=27kΩ-50=26950Ω
+ *Valor Min*=27kΩ-50=26950 Ω
  
  *b)café, gris, rojo, plata*
  
@@ -272,33 +271,35 @@ Se basa en convertir la energía mecánica en energía eléctrica por medio de u
  
  *Valor Min*=1.8kΩ-100=1700Ω
  
- **24)Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:**
+ **24) Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:**
  
- *a)café, negro, negro, oro*
+ **a)café, negro, negro, oro**
  
  R=10Ω ± 5%
  
- *b)verde, café, verde, plata*
+ **b)verde, café, verde, plata**
 
  R=5100000Ω ± 10%
+ R=5.1 MΩ ± 10%
  
- *c)azul, gris, negro, oro*
+ **c)azul, gris, negro, oro**
  
  R=68Ω ± 5%
  
- **26)Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:**
+ **26) Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:**
  
- *a)rojo, gris, violeta, rojo, café*
+ **a)rojo, gris, violeta, rojo, café**
  
- R= 28700 ± 1%
+ R= 28700 Ω ± 1%
+ R= 28.7 kΩ ± 1%
  
- *b)azul, negro, amarillo, oro, café*
+ **b)azul, negro, amarillo, oro, café**
  
- R=604x0.1= 60.4 ± 1% 
+ R=604x0.1= 60.4 Ω ± 1% 
  
- *c)blanco, naranja, café, café, café*
+ **c)blanco, naranja, café, café, café**
  
- R= 9410 ± 1%
+ R= 9.410 kΩ ± 1%
  
  **28)El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 Ω, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?**
  
@@ -306,11 +307,11 @@ Se basa en convertir la energía mecánica en energía eléctrica por medio de u
  
  **30) Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:**
  
- *a)4R7J*= 4.7 ± 5%
+ *a)4R7J*= 4.7 Ω ± 5%
  
- *b)5602M*= 5602M
+ *b)5602M*= 5602x1,000,000 = 5602 MΩ
  
- *c)1501F*= 1501 ± 1%
+ *c)1501F*= 1501 Ω ± 1%
 
 
 
